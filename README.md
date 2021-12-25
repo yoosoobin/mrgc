@@ -18,3 +18,5 @@
 </table>
 
 
+## OUTPUT (DEMO)
+<img src='https://github.com/yoosoobin/mrgc/blob/master/result_page.gif?raw=true'></img>
