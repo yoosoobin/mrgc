@@ -1,6 +1,10 @@
-## MRGC
-빅콘_이노베이션_무량공처팀
-https://yoosoobin.github.io/mrgc/
+## 빅콘_이노베이션_무량공처팀
+<p align = 'center'>
+  <b>We won the grand prize at the Big contest competition!🥇</b>
+</p>
+<p align = 'center'>
+  <a href='https://yoosoobin.github.io/mrgc/'>무량공처 웹사이트</a>
+</p>
 
 
 ## MEMBERS
@@ -12,3 +16,5 @@ https://yoosoobin.github.io/mrgc/
       <td align="center"><a href="https://github.com/jo999999"><img src="https://avatars.githubusercontent.com/u/77534419?v=4" width="100" height="100"><br /><sub><b>조하늘</b></sub></td> 
      </tr>
 </table>
+
+
